@@ -1,0 +1,21 @@
+{
+  "AUC_ROC": 0.745,
+  "PR_AUC": 0.266,
+  "threshold_used": 0.62,
+  "precision": 0.235,
+  "recall": 0.294,
+  "macro_F1": 0.597,
+  "precision_at_0.5": 0.165,
+  "recall_at_0.5": 0.542,
+  "macro_F1_at_0.5": 0.558,
+  "best_params": {
+    "clf__subsample": 0.9,
+    "clf__n_estimators": 200,
+    "clf__min_child_weight": 5,
+    "clf__max_depth": 8,
+    "clf__learning_rate": 0.02,
+    "clf__gamma": 0,
+    "clf__colsample_bytree": 0.7
+  },
+  "gpu_used": true
+}

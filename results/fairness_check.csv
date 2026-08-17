@@ -1,0 +1,3 @@
+subgroup,n,AUC_ROC,recall
+TC,3964,0.744,0.283
+TP,122,0.527,0.407

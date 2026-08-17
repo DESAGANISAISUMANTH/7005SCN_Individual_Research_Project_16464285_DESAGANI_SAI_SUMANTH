@@ -1,0 +1,12 @@
+{
+  "raw_rows": 159173,
+  "raw_cols": 169,
+  "duplicate_rows": 0,
+  "students": 20427,
+  "engagement_columns": 99,
+  "dropout_rate_pct": 7.31,
+  "imbalance_ratio": 12.7,
+  "strongest_early_signal": "nota10_hash",
+  "strongest_effect_size": 0.435,
+  "high_corr_pairs": 28
+}

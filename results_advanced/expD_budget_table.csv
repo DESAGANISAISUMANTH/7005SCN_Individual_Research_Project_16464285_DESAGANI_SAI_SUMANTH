@@ -1,0 +1,6 @@
+contacts_k,pct_of_cohort,precision_at_k,dropouts_found,expected_if_random,lift_vs_random,recall_at_k
+50,1.5,0.36,18,7,2.76,0.041
+100,3.0,0.32,32,13,2.45,0.074
+200,6.0,0.355,71,26,2.72,0.164
+300,9.0,0.327,98,39,2.5,0.226
+500,15.0,0.296,148,65,2.27,0.341

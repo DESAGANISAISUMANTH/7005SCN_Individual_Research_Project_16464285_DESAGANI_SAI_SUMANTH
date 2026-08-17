@@ -1,0 +1,3 @@
+validation,n_test,AUC_ROC,PR_AUC,recall,precision,macro_F1
+Cross-cohort (train <2022 -> test 2022),3326,0.699,0.256,0.175,0.349,0.575
+Same-cohort random split (2022 only),998,0.749,0.426,0.438,0.449,0.681

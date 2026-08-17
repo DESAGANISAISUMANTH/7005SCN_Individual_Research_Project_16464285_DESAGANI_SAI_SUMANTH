@@ -1,0 +1,4 @@
+rule,threshold,students_flagged,precision,recall,lift_vs_random
+activity in lowest 10%,0.0,339,0.254,0.198,1.94
+activity in lowest 20%,66.0,671,0.231,0.357,1.77
+activity in lowest 30%,95.0,1011,0.199,0.463,1.52

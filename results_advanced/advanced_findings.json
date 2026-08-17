@@ -1,0 +1,14 @@
+{
+  "trajectory_auc_gain": -0.004,
+  "trajectory_gain_exceeds_ci": false,
+  "first_year_dropout_rate": 13.05,
+  "first_year_pr_auc": 0.417,
+  "cross_cohort_auc": 0.699,
+  "same_cohort_auc": 0.749,
+  "generalisation_drop": 0.05,
+  "lift_at_100": 2.45,
+  "brier_score": 0.1173,
+  "brier_baseline_always_base_rate": 0.1135,
+  "simple_rule_auc": 0.631,
+  "model_beats_simple_rule_by": 0.068
+}
